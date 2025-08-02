@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/weeding-invation/static/css/main.80deb0b1.css",
-    "main.js": "/weeding-invation/static/js/main.e9ed0b6a.js",
+    "main.js": "/weeding-invation/static/js/main.aa41d9ed.js",
     "index.html": "/weeding-invation/index.html",
     "main.80deb0b1.css.map": "/weeding-invation/static/css/main.80deb0b1.css.map",
-    "main.e9ed0b6a.js.map": "/weeding-invation/static/js/main.e9ed0b6a.js.map"
+    "main.aa41d9ed.js.map": "/weeding-invation/static/js/main.aa41d9ed.js.map"
   },
   "entrypoints": [
     "static/css/main.80deb0b1.css",
-    "static/js/main.e9ed0b6a.js"
+    "static/js/main.aa41d9ed.js"
   ]
 }
